@@ -1,2 +1,2 @@
 # PROJETOS
- Testando a ferramenta git e github
+ Testando as ferramentas git e github, para um melhor desenvolvimento na área da tecnologia. 
